@@ -65,8 +65,6 @@ This project explores the **Students Performance Dataset** to uncover insights a
 ### **🚀 How to Run**
 
 ```bash
-# Clone the repository
-git clone https://github.com/username/student-performance-EDA.git
 
 # Install dependencies
 pip install -r requirements.txt
